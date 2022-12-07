@@ -22,6 +22,7 @@ val mathew = Developer(
     Links(
         mastodon = "@fosstodon@MonkeyMatt",
         twitter = "@MonkeyMatt_",
+        linkedIn = "linkedin.com/in/monkeymatt"
     ),
 )
 ```
