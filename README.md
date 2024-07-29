@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 val mathew = Developer(
     About(
         name = "MonkeyMatt",
-        company = Vacasa,
+        employment = OpenToWork,
     ),
     Links(
         mastodon = "@fosstodon@MonkeyMatt",
