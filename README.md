@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 val mathew = Developer(
     About(
         name = "MonkeyMatt",
-        employment = OpenToWork,
+        employment = CleverFirstAid(role = SoftwareDeveloper, tech = Flutter),
     ),
     Links(
         mastodon = "@fosstodon@MonkeyMatt",
